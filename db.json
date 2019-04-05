@@ -1,0 +1,13 @@
+{
+  "signature": [
+    { "id": 001, "type": "YARA", "org": "DISA", "mod_dt": "4/4/19 1535Z", "mod_by": "cripken8", "created_dt": "4/1/19 1039Z"},
+    { "id": 002, "type": "SNORT", "org": "DISA", "mod_dt": "4/1/19 1235Z", "mod_by": "jpalmer22", "created_dt": "3/30/19 0700Z"},
+    { "id": 003, "type": "YARA", "org": "NSA", "mod_dt": "3/9/19 0104Z", "mod_by": "eweaver4", "created_dt": "3/9/19 0103Z"}
+  ],
+ "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": [ {"name": "typicode" } 
+  ]
+}
